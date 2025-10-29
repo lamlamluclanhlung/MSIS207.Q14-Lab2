@@ -2,5 +2,5 @@
 
 - **Họ tên:** Nguyễn Chí Lâm
 - **MSSV:** 23520831
-- **Demo (Vercel):** https://<ten-project>.vercel.app  
+- **Demo (Vercel):** [Lab 2 — JSX+TS (No React)](https://jsx-without-react-663ye2kdf-chislams-projects.vercel.app/)
 
